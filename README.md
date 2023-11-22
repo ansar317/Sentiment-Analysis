@@ -32,6 +32,7 @@ pip install -r requirements.txt
 ## Dataset
 
 A collection of movie reviews written in English. Using a web scraping bot I built, I generated this dataset and utilised it for sentiment analysis. It includes 320,000 movie reviews (annotated by reviewers in ten classes) and other helpful information like the title, genre, and release date.
+Kaggle DataSet Link: https://www.kaggle.com/datasets/nikosfragkis/imdb-320000-movie-reviews-sentiment-analysis
 
 ## Installation
 
