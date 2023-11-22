@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project aims to perform sentiment analysis on movie reviews, classifying them as either positive or negative. Sentiment analysis is a natural language processing (NLP) task that involves determining the sentiment expressed in a piece of text.
+With the help of sentiment analysis, this project will categorise movie reviews as either good or negative. One type of natural language processing (NLP) task is sentiment analysis, which is figuring out the sentiment that is being expressed in a text.
+
 
 ## Table of Contents
 
